@@ -1,0 +1,42 @@
+input[type=text], select {
+    width: 55%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 45%;
+    background-color: #3a4b3d;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  div 
+  {
+    padding: 20px;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+  }
+
+  .form
+  {
+    display: inline-block;
+    border-style: outset;
+    width: 44%;
+  }
+
+  /* Reference
+  This template is from https://www.w3schools.com/css/tryit.asp?filename=trycss_forms. With some edit did. */
